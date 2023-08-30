@@ -1,0 +1,25 @@
+.image-gallery-slide .image-gallery-image {
+    width: 50% !important;
+    object-fit: contain;
+}
+
+.image-gallery-left-nav .image-gallery-svg, .image-gallery-right-nav .image-gallery-svg {
+    height: 70px !important;
+    width: 60px;
+}
+
+.image-gallery-left-nav .image-gallery-svg {
+    margin-right: -900%;
+}
+
+.image-gallery-right-nav .image-gallery-svg {
+    margin-left: -900%;
+}
+
+.image-gallery-play-button .image-gallery-svg {
+    margin-right: -2700%
+}
+
+.image-gallery-fullscreen-button .image-gallery-svg {
+    margin-left: -2700%;
+}
